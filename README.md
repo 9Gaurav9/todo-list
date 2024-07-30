@@ -42,8 +42,8 @@ The `requirements.txt` file lists the dependencies needed to run the tests. It i
 ## How to Run the Project
 
 1. **Clone the repository**:
-  git clone <repository_url>
-  cd <repository_folder>
+  git clone <https://github.com/9Gaurav9/todo-list)>
+   $ cd todo-list
 2. **Install the requirements**:
 3. **Run the application**:
 4. **Run the tests**:
